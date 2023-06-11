@@ -1,18 +1,18 @@
-## Ex-9
+## Ex-09:
 ## ADD,RETRIEVE AND REMOVE THE ELEMENT FROM THE ARRAYLIST
-### Aim:
+### AIM:
 To write the java program to add, retrieve and remove the element from the ArrayList.
 
-### Procedure:
-* Create the class and declare the main method so that the JVM will identify the main program to run.
-* Declare a variable to accept the arraylist input.
-* To accept the inputs from user import Scanner and get the input and store them.
-* To add elements to ARRAYLIST use add() to add elements to the list.
-* Print the output after accepting all the inputs.
-* The program will be executed after the compilation and results are printed.
+### ALGORITHM:
+1. Create the class and declare the main method so that the JVM will identify the main program to run.
+2. Declare a variable to accept the arraylist input.
+3. To accept the inputs from user import Scanner and get the input and store them.
+4. To add elements to ARRAYLIST use add() to add elements to the list.
+5. Print the output after accepting all the inputs.
+6. The program will be executed after the compilation and results are printed.
 
-### Code:
-```
+### PROGRAM:
+```java
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -34,9 +34,9 @@ public class Ex9 {
 }
 ```
 
-### Output:
+### OUTPUT:
 <img width="188" alt="9" src="https://github.com/KeerthikaNagarajan/Java-Ex-9/assets/93427089/893fdce6-ba66-417d-a317-b7fdf3a5408a">
 
-### Result:
+### RESULT:
 Thus the program compile successfully.
 
